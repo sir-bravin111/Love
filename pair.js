@@ -135,7 +135,7 @@ router.get('/', async (req, res) => {
 ┌─❖
 │ *ᴛʜᴇ ᴀʙᴏᴠᴇ ɪs ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ ᴄᴏᴘʏ ɪᴛ*
 └┬❖ 
-*Follow Channel*
+*Follow Channel for more updates*
 > https://www.whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
 
 `;
